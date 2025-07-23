@@ -16,6 +16,10 @@ Eventify is a modern web application built with CodeIgniter 4 for managing event
 - Composer
 - XAMPP/WAMP/LAMP recommended for local development
 
+## user credentials
+username: admin@gmail.com
+pw: 123456
+
 ## Installation
 1. **Clone the repository:**
    ```sh
