@@ -36,12 +36,6 @@ class BookingModel extends Model
     ];
 
     /**
-     * Use timestamps for created_at
-     * @var bool
-     */
-    protected $useTimestamps = true;
-
-    /**
      * Field for created timestamp
      * @var string
      */
